@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- Links
+- [Github Repository](https://github.com/ChipovaMarieta/GitProjectFinal)
 
 ### Project 2
 - Description
