@@ -2,15 +2,33 @@
 
 ## Projects
 ### Project 1
-- Description
-- [Github Repository](https://github.com/ChipovaMarieta/GitProjectFinal)
+- Some code demonstrating Selenium tool.
+- [Github Repository - Selenium tool](https://github.com/ChipovaMarieta/GitProjectFinal)
 
 ### Project 2
-- Description
-- Links
+- Some java code demonstrationg the inheritance and encapsulation principles.
+- [Github Repository](https://github.com/ChipovaMarieta/intellijvol2)
+
+### Project 3
+- Some java code demonstrating basic java skills.
+- [Github Repository - Java](https://github.com/ChipovaMarieta/intellijvol1)
+
+### Project 4
+- Some java code demonstrating usage of interfaces.
+- [Github Reposotoy - Java](https://github.com/ChipovaMarieta/intellijvol3)
+
+### Project 5
+- Some java code demostrating usage of collections and maps.
+- [Github Repository](https://github.com/ChipovaMarieta/intellijvol4)
+
 
 # Education
-- QA Complete - Pragmatic LLC (2024)
+- QA Complete - Pragmatic IT Learning & Outsourcing Center (2024)
+  - Relation Databases
+  - Java Core
+  - Selenium
+  - Linux
+  - Software Testing
 - Bachelor of Business Management - Plovdivski universitet 'Paisii Hilendarski' (2007-2011)
   
 
