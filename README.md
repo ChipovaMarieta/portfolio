@@ -7,7 +7,7 @@
 
 ### Project 2
 - Some java code demonstrationg the inheritance and encapsulation principles.
-- [Github Repository](https://github.com/ChipovaMarieta/intellijvol2)
+- [Github Repository - Java](https://github.com/ChipovaMarieta/intellijvol2)
 
 ### Project 3
 - Some java code demonstrating basic java skills.
@@ -19,7 +19,7 @@
 
 ### Project 5
 - Some java code demostrating usage of collections and maps.
-- [Github Repository](https://github.com/ChipovaMarieta/intellijvol4)
+- [Github Repository - Java](https://github.com/ChipovaMarieta/intellijvol4)
 
 
 # Education
