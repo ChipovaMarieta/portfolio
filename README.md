@@ -15,7 +15,7 @@
 
 ### Project 4
 - Some java code demonstrating usage of interfaces.
-- [Github Reposotoy - Java](https://github.com/ChipovaMarieta/intellijvol3)
+- [Github Repository - Java](https://github.com/ChipovaMarieta/intellijvol3)
 
 ### Project 5
 - Some java code demostrating usage of collections and maps.
@@ -23,11 +23,11 @@
 
 ### Project 6
 - Selenium tests OOP based.
-- [Github Repository - Java](https://github.com/ChipovaMarieta/inv.bg-tests)
+- [Github Repository - Selenium](https://github.com/ChipovaMarieta/inv.bg-tests)
 
 ### Project 7
 - Selenium tests OOP based and some API tests.
-- [Github Repository - Java](https://github.com/ChipovaMarieta/inv-APITestProject)
+- [Github Repository - Selenium](https://github.com/ChipovaMarieta/inv-APITestProject)
 
 
 
