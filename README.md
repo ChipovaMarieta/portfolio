@@ -21,8 +21,18 @@
 - Some java code demostrating usage of collections and maps.
 - [Github Repository - Java](https://github.com/ChipovaMarieta/intellijvol4)
 
+### Project 6
+- Selenium tests OOP based.
+- [Github Repository - Java](https://github.com/ChipovaMarieta/inv.bg-tests)
+
+### Project 7
+- Selenium tests OOP based and some API tests.
+- [Github Repository - Java](https://github.com/ChipovaMarieta/inv-APITestProject)
+
+
 
 # Education
+- Linux System Administrator - Computer education center "Progress"​ (2025)
 - QA Complete - Pragmatic IT Learning & Outsourcing Center (2024)
   - Relation Databases
   - Java Core
@@ -33,7 +43,7 @@
   
 
 # Work History
-- Project Manager - Freelance position (11.2024 - current)
+- Tech Support Engineer - Seeems Solutions Ltd (03.2025 - current)
 - Marketing and Advertising Specialist - STM Zdrave Ltd (09.2024 - 12.2024)
 - Marketing and Advertising Specialist - TMT PHARMA GROUP ltd (08.2022 - 08.2024)
 - Digital Marketing Specialist - Konversa (11.2020 - 07.2022)
