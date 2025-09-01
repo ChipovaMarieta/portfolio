@@ -30,7 +30,7 @@
 - [Github Repository - Selenium](https://github.com/ChipovaMarieta/inv-APITestProject)
 
 ### Project 8
-- Playright POM tests with Java.
+- Playwright POM tests with Java.
 - [Github Repository - Playwright](https://github.com/ChipovaMarieta/playRightPOMDemo)
 
 ### Project 9
