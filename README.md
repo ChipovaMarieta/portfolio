@@ -36,7 +36,8 @@
 ### Project 9
 - JavaScript project
 - [Github Repository - JavaScript](https://github.com/ChipovaMarieta/Todo-List-Project)
-- https://chipovamarieta.github.io/Todo-List-Project/
+- (https://chipovamarieta.github.io/Todo-List-Project/)
+
 
 
 
