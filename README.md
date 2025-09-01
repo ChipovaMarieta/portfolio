@@ -31,7 +31,7 @@
 
 ### Project 8
 - Playright POM tests with Java.
-- [Github Repository - Playright](https://github.com/ChipovaMarieta/playRightPOMDemo)
+- [Github Repository - Playwright](https://github.com/ChipovaMarieta/playRightPOMDemo)
 
 ### Project 9
 - JavaScript project
