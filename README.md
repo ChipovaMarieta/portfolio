@@ -29,6 +29,15 @@
 - Selenium tests OOP based and some API tests.
 - [Github Repository - Selenium](https://github.com/ChipovaMarieta/inv-APITestProject)
 
+### Project 8
+- Playright POM tests with Java.
+- [Github Repository - Playright](https://github.com/ChipovaMarieta/playRightPOMDemo)
+
+### Project 9
+- JavaScript project
+- [Github Repository - JavaScript](https://github.com/ChipovaMarieta/Todo-List-Project)
+- https://chipovamarieta.github.io/Todo-List-Project/
+
 
 
 # Education
